@@ -3,7 +3,8 @@ Contiene otros repositorios con contenidos ML, DL, LNP
 
 ## Contenido
 
-### 1. Data Science Concepts. https://github.com/aswintechguy/Data-Science-Concepts
+### 1. Data Science Concepts. 
+https://github.com/aswintechguy/Data-Science-Concepts
    
    The repository contains all the machine learning, deep learning and NLP concepts with examples in python
 
